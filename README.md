@@ -29,7 +29,7 @@ Marketing Insights Extraction – Translate findings into actionable insights fo
 ## Questions & Tasks
 The project explored the following research questions:
 1. Sales Trends Over Time
-How have BMW’s global sales evolved across 15 years?
+How have BMW’s global sales evolved across 14 years?
 2. Model Performance
 Which models dominate? How does their momentum shift?
 3. Regional Differences
