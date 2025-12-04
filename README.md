@@ -131,7 +131,7 @@ In brief this week, I refined: Colour legend placement, Label clarity, Hover beh
 ![image alt](https://github.com/bsarfo/dataviz-project-template-proposal/blob/master/BMW%20REGIONAL%20SALES%2011.21.png)
 ![image alt]()
 https://vizhub.com/bsarfo/54a9fdfc0c2c452bbba8d1bcf280d9e9, https://vizhub.com/bsarfo/8583151136bc41e68febeb7d145e7f48, https://vizhub.com/bsarfo/627bcb7ae3504a4293294cb4398ea382, https://vizhub.com/bsarfo/eb041619509e43038cac046c2fee75c9
-## Pre-Final Dashboard: BMW Global Sales Insights (2010–2024)
+## Final Dashboard: BMW Global Sales Insights (2010–2024)
 The completed dashboard includes:
 A. Overview Panel
 Stacked bar chart showing BMW’s global sales distribution over time.
