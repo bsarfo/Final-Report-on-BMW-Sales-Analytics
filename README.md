@@ -175,15 +175,15 @@ Iterative design refinement
 The final product serves as a portfolio-quality artefact showcasing both technical and analytical capabilities.
 
 ## Summary of Findings
-1. Sales Trends Over Time
+1. Sales Trends Over Time:
 An examination of BMW’s global sales over the 14 years reveals a generally upward trajectory, marked by cyclical fluctuations that correspond to broader economic conditions and market dynamics. Although year-to-year variations occur, long-term growth is evident, indicating sustained demand across multiple regions.
-2. Model Performance
+2. Model Performance:
 Across markets, certain BMW models consistently dominate total sales, particularly the 3 Series, 5 Series, X3, and X5, which exhibit both stability and strong market momentum. Performance-oriented models and newer electric/hybrid variants experience more uneven growth, suggesting that their appeal may be more sensitive to economic cycles, pricing, or evolving consumer preferences. Shifts in momentum over the 14 years illustrate changing consumer tastes and the growing popularity of SUVs and crossovers.
-3. Regional Differences
+3. Regional Differences:
 Sales contributions vary substantially across regions. North America, Europe, and Asia emerge as the strongest drivers of BMW’s global performance, while markets such as Africa, the Middle East, and South America contribute smaller but stable volumes. Regional disparities reflect differences in purchasing power, product availability, regulatory environments, and cultural preferences. These variations underscore the importance of region-specific marketing and production strategies.
-4. Customer Preferences
+4. Customer Preferences:
 Analysis of customer attributes indicates clear correlations between sales volume and characteristics such as engine type, vehicle price, and color choices. Mid-range models with efficient engines tend to achieve higher sales, suggesting that affordability and practicality remain key purchase drivers. Additionally, specific colours and body styles demonstrate stronger regional appeal, emphasising the role of aesthetic and cultural factors in consumer decision-making.
-5. Strategic Implications
+5. Strategic Implications:
 The findings carry significant implications for BMW’s marketing and production strategy. The consistent performance of core models supports the continuation of targeted marketing and sustained production capacity. Shifts in model momentum highlight opportunities for innovation, particularly in emerging vehicle categories such as electric and hybrid models. Regional differences suggest that BMW should maintain differentiated market strategies, optimizing inventory and promotional efforts according to regional demand patterns. Furthermore, insights into customer preferences can inform product design, pricing policies, and color/feature packaging to align offerings with market expectations better.
 
 ## Open Questions
