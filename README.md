@@ -164,6 +164,7 @@ The link to the final dashboard is shown in this link: https://vizhub.com/bsarfo
 https://vizhub.com/bsarfo/1d4fcfee6d3643319ecc1ddb0558f9af
 https://vizhub.com/bsarfo/2a8e87ccd947400b98245782602f3639
 ![image alt](https://github.com/bsarfo/Final-Report-on-BMW-Sales-Analytics/blob/7f2e0a7e922431acb5970ff23c31bcb289ebd08e/BMW%20SALES%20ANALYTICS%20DASHBOARD%20WITH%20MOVABLE%20LEGENDS.png)
+![image alt](https://github.com/bsarfo/Final-Report-on-BMW-Sales-Analytics/blob/b60b2d72146503e8346f2eeb59e071eee374d1a0/FIRST%20DASHBOARD.png)
 ![image alt]()
 
 ## Conclusion
