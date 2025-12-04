@@ -160,11 +160,14 @@ I applied the following adjustments:
 The link to the final dashboard is shown in this link: https://vizhub.com/bsarfo/184db33f69e94fad8af1ae3304aa9088
 https://vizhub.com/bsarfo/1d4fcfee6d3643319ecc1ddb0558f9af
 https://vizhub.com/bsarfo/2a8e87ccd947400b98245782602f3639
+https://github.com/bsarfo/Final-Report-on-BMW-Sales-Analytics/blob/master/README.md
 ![image alt](https://github.com/bsarfo/Final-Report-on-BMW-Sales-Analytics/blob/7f2e0a7e922431acb5970ff23c31bcb289ebd08e/BMW%20SALES%20ANALYTICS%20DASHBOARD%20WITH%20MOVABLE%20LEGENDS.png)
 ![image alt](https://github.com/bsarfo/Final-Report-on-BMW-Sales-Analytics/blob/b60b2d72146503e8346f2eeb59e071eee374d1a0/FIRST%20DASHBOARD.png)
 ![image alt](https://github.com/bsarfo/Final-Report-on-BMW-Sales-Analytics/blob/124c506723642767189aff1b4ffe413bba6dbf05/MODEL%20AND%20TRANSIMISSION%20BARS.png)
 ![image alt](https://github.com/bsarfo/Final-Report-on-BMW-Sales-Analytics/blob/37cbe7b301043f17cde8654beebb77ae2b6dd343/BMW%20SALES%20BUBBLES%20CHART.png)
+https://youtu.be/v2oFJ1RemPw
 
+ 
 ## Conclusion
 This project reflects a complete journey from exploratory sketches to a multi-layered analytical dashboard. It demonstrates skills in:
 D3.js
