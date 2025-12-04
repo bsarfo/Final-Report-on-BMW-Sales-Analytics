@@ -150,8 +150,22 @@ Rotatable world map showing geographic performance.
 <img width="1892" height="651" alt="Image" src="https://github.com/user-attachments/assets/4bd7bbc0-16dd-470f-8895-55d3d06f33f4" />
 https://vizhub.com/bsarfo/a3dcbe93a6f14d63a6a3dc562c149df5
 
-## Next Steps
+## Final Week
+So in the final week I resized and optimized the entire dashboard layout so that all elements fit fully on a standard laptop screen without any vertical or horizontal scrolling.
+I applied the following adjustments:
+1.	Reduce the vertical height of all containers, cards, and chart panels so they fit within a 720 - 900px viewport.
+2.	Shrink the top padding and margins around the title, dropdown area, and chart card.
+3.	Reduce internal spacing in the chart panel (less top/bottom padding) so the chart takes up less vertical space.
+4.	Scale the chart height down while keeping text, axes, and markers readable.
+5.	Make the legend, statistics box, and region label smaller and tighter so they do not push the layout downward.
+6.	Adjust font sizes of labels, axis titles, and annotations so they remain visible but compact.
+7.	Ensure the entire graph, dropdown selector, title, legend, stats box, and region badge are all visible simultaneously on a 1366×768 or 1536×864 laptop display.
+The link to the final dashboard is shown in this link: https://vizhub.com/bsarfo/184db33f69e94fad8af1ae3304aa9088
+https://vizhub.com/bsarfo/1d4fcfee6d3643319ecc1ddb0558f9af
+https://vizhub.com/bsarfo/2a8e87ccd947400b98245782602f3639
+![image alt]()
 
+## Next Steps
 If time permits, potential enhancements include:
 1. Animated transitions between dashboard sections
 Switching views smoothly (e.g., bar → map → scatter).
@@ -166,14 +180,26 @@ These are outside the immediate scope but align with real-world BI dashboards.
 ## Conclusion
 This project reflects a complete journey from exploratory sketches to a multi-layered analytical dashboard. It demonstrates skills in:
 D3.js
-Data cleaning and modeling
+Data cleaning and modelling
 Interaction design
 Visual storytelling
 Iterative design refinement
-The final product serves as a portfolio-quality artifact showcasing both technical and analytical capabilities.
+The final product serves as a portfolio-quality artefact showcasing both technical and analytical capabilities.
+
+## Summary of Findings
+1. Sales Trends Over Time
+An examination of BMW’s global sales over the 14 years reveals a generally upward trajectory, marked by cyclical fluctuations that correspond to broader economic conditions and market dynamics. Although year-to-year variations occur, long-term growth is evident, indicating sustained demand across multiple regions.
+2. Model Performance
+Across markets, certain BMW models consistently dominate total sales, particularly the 3 Series, 5 Series, X3, and X5, which exhibit both stability and strong market momentum. Performance-oriented models and newer electric/hybrid variants experience more uneven growth, suggesting that their appeal may be more sensitive to economic cycles, pricing, or evolving consumer preferences. Shifts in momentum over the 14 years illustrate changing consumer tastes and the growing popularity of SUVs and crossovers.
+3. Regional Differences
+Sales contributions vary substantially across regions. North America, Europe, and Asia emerge as the strongest drivers of BMW’s global performance, while markets such as Africa, the Middle East, and South America contribute smaller but stable volumes. Regional disparities reflect differences in purchasing power, product availability, regulatory environments, and cultural preferences. These variations underscore the importance of region-specific marketing and production strategies.
+4. Customer Preferences
+Analysis of customer attributes indicates clear correlations between sales volume and characteristics such as engine type, vehicle price, and color choices. Mid-range models with efficient engines tend to achieve higher sales, suggesting that affordability and practicality remain key purchase drivers. Additionally, specific colours and body styles demonstrate stronger regional appeal, emphasising the role of aesthetic and cultural factors in consumer decision-making.
+5. Strategic Implications
+The findings carry significant implications for BMW’s marketing and production strategy. The consistent performance of core models supports the continuation of targeted marketing and sustained production capacity. Shifts in model momentum highlight opportunities for innovation, particularly in emerging vehicle categories such as electric and hybrid models. Regional differences suggest that BMW should maintain differentiated market strategies, optimizing inventory and promotional efforts according to regional demand patterns. Furthermore, insights into customer preferences can inform product design, pricing policies, and color/feature packaging to align offerings with market expectations better.
 
 ## Open Questions
-I am confident about the project's direction, but I do have a few concerns. I want to explore regional differences, but I may not have access to detailed geographic data or maps. Finally, while I’ve sketched interactive ideas like hover-tooltips and filters, I’m uncertain about how smoothly I can implement them in D3.js. These challenges may require me to simplify some aspects, but they will also push me to learn through iteration.
+I am confident about the project's direction, but I do have a few concerns. I want to explore regional differences, but I may not have access to detailed geographic data or maps. Finally, while I’ve sketched interactive ideas like hover tooltips and filters, I’m unsure how smoothly I can implement them in D3.js. These challenges may require me to simplify some aspects, but they will also push me to learn through iteration.
 
 ## Milestones
 Week 1: I defined project scope, documented dataset fields, and drafted initial research questions. I then created the first static sketches (bar chart practice with population data).
