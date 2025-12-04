@@ -165,18 +165,6 @@ https://vizhub.com/bsarfo/1d4fcfee6d3643319ecc1ddb0558f9af
 https://vizhub.com/bsarfo/2a8e87ccd947400b98245782602f3639
 ![image alt]()
 
-## Next Steps
-If time permits, potential enhancements include:
-1. Animated transitions between dashboard sections
-Switching views smoothly (e.g., bar → map → scatter).
-2. Full map drill-down
-Country → city → dealership → model.
-3. Cross-filtering (Brushing & Linking)
-Clicking a model filters all charts simultaneously.
-4. Predictive Layer
-Adding simple forecasting (ARIMA, linear regression).
-These are outside the immediate scope but align with real-world BI dashboards.
-
 ## Conclusion
 This project reflects a complete journey from exploratory sketches to a multi-layered analytical dashboard. It demonstrates skills in:
 D3.js
